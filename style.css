@@ -144,7 +144,8 @@ main form textarea {
 main form button {
     height: 40px;
     width: 200px;
-    font-size: 0.9rem;
+    font-size: 1rem;
+    font-family: inherit;
     font-weight: 600;
     background-color: #c5705d;
     border-radius: 8px;
@@ -171,7 +172,7 @@ aside section {
 aside input[type="text"] {
     width: 100%;
     margin-bottom: 15px;
-    font-size: 1em;
+    font-size: 1rem;
     padding: 10px;
     border: 2px solid black;
     border-radius: 10px;
